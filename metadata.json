@@ -1,0 +1,6 @@
+{
+  "name": "RESUMEX AI",
+  "description": "AI-Powered Resume Intelligence & Career Readiness Platform. Analyze. Improve. Match. Get Ready.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
